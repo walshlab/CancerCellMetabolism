@@ -1,1 +1,6 @@
-This folder contains the original fluorescence lifetime images
+This folder contains the original fluorescence lifetime images.
+Each metabolic experiment folder contains three technical replications.
+1. Glycolysis and OXPHOS
+2. Pyruvate 
+3. Glutaminolysis
+Glycolysis and OXPHOS inhibition experiments were repeated to get more orignial data for CNN model development.
