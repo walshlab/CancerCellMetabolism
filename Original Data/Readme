@@ -4,3 +4,5 @@ Each metabolic experiment folder contains three technical replications.
 2. Pyruvate 
 3. Glutaminolysis
 Glycolysis and OXPHOS inhibition experiments were repeated to get more orignial data for CNN model development.
+
+The mask.tif files represent cytoplasmic masks, and the _cell_mask.tif files represent cellular masks.
