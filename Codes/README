@@ -1,1 +1,2 @@
 This folder contains all the codes for CNN development, and traditional machine learning model development.
+.h5 files are the CNN model trained with different autofluorescence lifetime images.
